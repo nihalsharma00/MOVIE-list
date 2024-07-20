@@ -1,0 +1,28 @@
+
+
+
+/* App.css */
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+.heading {
+    background: purple;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.content {
+    margin: 20px 0;
+}
+
+.section {
+    margin: 40px 0;
+}
+
+.header.button{
+    border-radius: 20%;
+}

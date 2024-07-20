@@ -1,0 +1,19 @@
+.content-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;      
+}
+
+.light-theme {
+    background: #eee;
+    color: #000;
+}
+
+.dark-theme {
+    background: #444;
+    color: #fff;
+}
